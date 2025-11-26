@@ -6,7 +6,7 @@
 **Status**    
 Prototype. This repository contains a reusable Python package (`nyspccu`) and a simple Streamlit example.
 
-## Quick start
+## Quick start: 
 
 1. Create and activate a Python 3.9+ virtual environment:   
    python -m venv .venv  
@@ -19,5 +19,5 @@ pip install -r requirements.txt
 4. Run the example Streamlit app:  
 streamlit run examples/streamlit_app.py
 
-**Purpose and audience**  
+## Purpose: 
 This software is intended for researchers and engineers exploring domain-restricted conversational agents, safe RAG (retrieval-augmented generation) patterns, and prototypes for public-facing cybersecurity information systems. It is not an official NYSP service and should not be used to file reports or handle PII.
