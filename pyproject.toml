@@ -1,0 +1,14 @@
+[build-system]
+requires = ["setuptools", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "nyspccu-assistant"
+version = "0.0.1"
+description = "Retrieval-augmented, domain-restricted cybersecurity assistant prototype (NYSP CCU)"
+authors = [
+  {name = "Shamita Jagarlamudi"}
+]
+license = {text = "MIT"}
+readme = "README.md"
+requires-python = ">=3.9"
