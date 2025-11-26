@@ -20,4 +20,5 @@ pip install -r requirements.txt
 3. Run the example Streamlit app:
 streamlit run examples/streamlit_app.py
 
-nyspccu-assistant/
+**Purpose and audience**  
+This software is intended for researchers and engineers exploring domain-restricted conversational agents, safe RAG (retrieval-augmented generation) patterns, and prototypes for public-facing cybersecurity information systems. It is not an official NYSP service and should not be used to file reports or handle PII.
