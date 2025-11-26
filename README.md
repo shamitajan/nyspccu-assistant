@@ -9,7 +9,15 @@ Prototype. This repository contains a reusable Python package (`nyspccu`) and a 
 ## Quick start
 
 1. Create and activate a Python 3.9+ virtual environment:
-```bash
+
 python -m venv .venv
 source .venv/bin/activate   # macOS / Linux
 .venv\Scripts\activate      # Windows (PowerShell)
+
+2. Install requirements:
+pip install -r requirements.txt
+
+3. Run the example Streamlit app:
+streamlit run examples/streamlit_app.py
+
+nyspccu-assistant/
