@@ -10,9 +10,9 @@ Prototype. This repository contains a reusable Python package (`nyspccu`) and a 
 
 1. Create and activate a Python 3.9+ virtual environment:  
 
-python -m venv .venv  
-source .venv/bin/activate   # macOS / Linux  
-.venv\Scripts\activate      # Windows (PowerShell)  
+  python -m venv .venv  
+  source .venv/bin/activate   # macOS / Linux  
+  .venv\Scripts\activate      # Windows (PowerShell)  
 
 2. Install requirements:  
 pip install -r requirements.txt
